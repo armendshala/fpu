@@ -82,8 +82,8 @@ if __name__ == '__main__':
 							https://docs.python.org/3/library/csv.html
 							csv.writer(csvfile, dialect='excel', **fmtparams)
 
-							Return a writer object responsible for converting the user’s data into delimited strings on the given file-like object. csvfile can be any object with a write() method. 
-							If csvfile is a file object, it must be opened with the ‘b’ flag on platforms where that makes a difference.
+							Return a writer object responsible for converting the user's data into delimited strings on the given file-like object. csvfile can be any object with a write() method. 
+							If csvfile is a file object, it must be opened with the 'b' flag on platforms where that makes a difference.
 							'''
 
 							with open('File.csv','ab') as a:
