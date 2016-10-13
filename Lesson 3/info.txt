@@ -1,0 +1,4 @@
+Parsel library
+https://pypi.python.org/pypi/parsel/0.9.0
+
+pip install parsel
