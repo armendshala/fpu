@@ -1,0 +1,11 @@
+
+https://www.microsoft.com/en-us/download/details.aspx?id=44266
+https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/
+https://pypi.python.org/pypi/lxml/2.2.8
+pip install scrapy
+
+https://scrapinghub.com/scrapy-cloud/
+
+https://scrapy.org/
+https://doc.scrapy.org/en/1.2/
+https://doc.scrapy.org/en/1.2/topics/request-response.html
