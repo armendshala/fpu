@@ -1,8 +1,18 @@
+1. Microsoft Visual C++ Compiler for Python 2.7 
+  https://www.microsoft.com/en-us/download/details.aspx?id=44266
+  
+2. Python for Windows Extensions
+  32bit - https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pywin32-220.win32-py2.7.exe/download
+  64bit - https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pywin32-220.win-amd64-py2.7.exe/download
+  
+3. lxml 2.2.8
+  32bit - https://pypi.python.org/packages/bd/e5/6865654b1f126ebc53edc815bdb7bb0754e45cbe2b78bd830187a444a46f/lxml-2.2.8.win32-py2.7.exe#md5=deb95d53dbd3734ecfb4f69850758427
+  64bit - https://pypi.python.org/packages/28/2d/9c09be02541bcd8682a9bdd3ee231e56d052b7a34deea6330a473246d1d4/lxml-2.2.8.win-amd64-py2.7.exe#md5=cfcf7f07a5016a5934271cddde4bbcbe
+  
+4. Scrapy install - open cmd and type 'pip install scrapy'
 
-https://www.microsoft.com/en-us/download/details.aspx?id=44266
-https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/
-https://pypi.python.org/pypi/lxml/2.2.8
-pip install scrapy
+
+------------------------------------------------------------------------------------------------
 
 https://scrapinghub.com/scrapy-cloud/
 
